@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  flutter_compass: ^0.6.1
+  flutter_compass: 0.7.0
   geolocator: 9.0.1
   stream_transform: ^2.0.0
   vector_math: ^2.1.0

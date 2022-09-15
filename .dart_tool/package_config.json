@@ -45,7 +45,7 @@
     },
     {
       "name": "flutter_compass",
-      "rootUri": "file:///Users/siegfredpagador/.pub-cache/hosted/pub.dartlang.org/flutter_compass-0.6.1",
+      "rootUri": "file:///Users/siegfredpagador/.pub-cache/hosted/pub.dartlang.org/flutter_compass-0.7.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -194,7 +194,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2022-09-15T03:41:01.148218Z",
+  "generated": "2022-09-15T03:44:34.056330Z",
   "generator": "pub",
   "generatorVersion": "2.18.1"
 }
